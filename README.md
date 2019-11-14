@@ -18,4 +18,5 @@ Ejercicio 17: David Gabaldón Pardo
 Ejercicio 22: Sergi Cortés
 Ejercicio 20: Rafael Jorge Carbonell Gisbert
 Ejercicio 23: Jairo Julià Bravo
+Ejercicio 24: Lluís Juan García
 
